@@ -78,6 +78,7 @@ while True:
 
     elif int(inputs[0]) == 3:
         print("Esta función aún no se ha implementado")
+        #OJO cambiar esta sección cuando se implemente
 
     else:
         sys.exit(0)
