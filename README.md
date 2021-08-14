@@ -1,4 +1,6 @@
-#ISIS1225 - Estructura de un proyecto
+#ISIS1225 - Estructura de un proyecto 
+Integrantes: Luis Ernesto Tejón Rojas, Correo: l.tejon@uniandes.edu.co   Código; 202113150
+             Sergio Rincón, Correo: si.rincon@uniandes.edu.co            Código:
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
